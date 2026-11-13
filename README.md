@@ -1,4 +1,4 @@
-### Hi, I'm Dani Abdani 👋
+### Hi 👋
 
 I build practical desktop tools, with fast and simple apps that just work.
 
