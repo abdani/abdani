@@ -1,6 +1,6 @@
 ### Hi, I'm Dani Abdani 👋
 
-I build practical desktop tools for Windows, with fast and simple apps that just work.
+I build practical desktop tools, with fast and simple apps that just work.
 
 #### Featured project
 <a href="https://github.com/abdani/Donat-Downloader">
