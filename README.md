@@ -17,7 +17,7 @@ A premium file manager with verified, resumable transfers, recovery-first sync a
 <br>
 
 <a href="https://github.com/abdani/Donat-Downloader">
-  <img src="https://abdani.github.io/Donat-Downloader/images/social-preview.png" alt="Donat Downloader" width="640">
+  <img src="https://abdani.github.io/Donat-Downloader/images/hero.png?v=1" alt="Donat Downloader" width="640">
 </a>
 
 **[Donat Downloader](https://github.com/abdani/Donat-Downloader)** is a fast, modern downloader for video and music from YouTube and 1,700+ sites.
