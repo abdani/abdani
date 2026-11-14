@@ -58,5 +58,16 @@ Zoom and play in place, straight from a PC folder or an Android phone over USB, 
 
 [Website](https://abdani.github.io/Select-Delete-GUI/) · [Download](https://github.com/abdani/Select-Delete-GUI/releases/latest)
 
+<br>
+
+<a href="https://github.com/abdani/Zoom-War">
+  <img src="https://abdani.github.io/Zoom-War/images/social-preview.png?v=1" alt="Zoom War" width="640">
+</a>
+
+**[Zoom War](https://github.com/abdani/Zoom-War)** keeps trying to join a full Zoom meeting until a slot opens, then sounds the alarm the moment you're in.
+I've been stuck outside full meetings too, LOL, so I built this for all of us. Mic and camera off, and it rejoins if you get dropped.
+
+[Website](https://abdani.github.io/Zoom-War/) · [Download](https://github.com/abdani/Zoom-War/archive/refs/heads/main.zip)
+
 #### Find me
 [Instagram](https://www.instagram.com/dani_abdani/) · [GitHub](https://github.com/abdani)
