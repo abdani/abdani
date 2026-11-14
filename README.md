@@ -50,7 +50,7 @@ Straight over USB or from a copied folder, with a preview first and a duplicate 
 <br>
 
 <a href="https://github.com/abdani/Select-Delete-GUI">
-  <img src="https://abdani.github.io/Select-Delete-GUI/images/hero.png" alt="Select & Delete" width="640">
+  <img src="https://abdani.github.io/Select-Delete-GUI/images/hero.png?v=2" alt="Select & Delete" width="640">
 </a>
 
 **[Select & Delete](https://github.com/abdani/Select-Delete-GUI)** shows every photo, video and file in a folder as a thumbnail, so you can tick the ones you don't need and delete them safely.
