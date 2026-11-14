@@ -46,5 +46,17 @@ Snap. Pick a folder. Done. One ~100 KB exe that lives in the tray, nothing to in
 Straight over USB or from a copied folder, with a preview first and a duplicate finder.
 
 [Website](https://abdani.github.io/Android-Media-Separator/) · [Download](https://github.com/abdani/Android-Media-Separator/releases/latest)
+
+<br>
+
+<a href="https://github.com/abdani/Select-Delete-GUI">
+  <img src="https://abdani.github.io/Select-Delete-GUI/images/hero.png" alt="Select & Delete" width="640">
+</a>
+
+**[Select & Delete](https://github.com/abdani/Select-Delete-GUI)** shows every photo, video and file in a folder as a thumbnail, so you can tick the ones you don't need and delete them safely.
+Zoom and play in place, straight from a PC folder or an Android phone over USB, Recycle Bin by default. English version coming soon.
+
+[Website](https://abdani.github.io/Select-Delete-GUI/) · [Download](https://github.com/abdani/Select-Delete-GUI/releases/latest)
+
 #### Find me
 [Instagram](https://www.instagram.com/dani_abdani/) · [GitHub](https://github.com/abdani)
