@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td width="44%">
-      <a href="https://github.com/abdani/Donat-TeleDrive"><img src="https://abdani.github.io/Donat-TeleDrive/images/logo.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+      <a href="https://github.com/abdani/Donat-TeleDrive"><img src="https://raw.githubusercontent.com/abdani/Donat-TeleDrive/main/src/jvmMain/resources/icon-256.png" alt="" width="44" height="44" align="left" hspace="8"></a>
       <b><a href="https://github.com/abdani/Donat-TeleDrive">Donat TeleDrive</a></b><br>
       <sub>Your own private cloud drive for Windows, powered by your Telegram account.</sub>
     </td>
@@ -65,6 +65,15 @@
       <sub>A quiet little poetry archive on the web, in Indonesian and English. <code>Unreleased</code></sub>
     </td>
     <td width="36%"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img alt="Google Fonts" src="https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"> <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white"></td>
+    <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="16" height="16" alt=""> JavaScript<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="16" height="16" alt=""> CSS<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="16" height="16" alt=""> HTML</td>
+  </tr>
+  <tr>
+    <td width="44%">
+      <a href="https://github.com/abdani/develop-test"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c1.svg" alt="" width="44" height="44" align="left" hspace="8"></a>
+      <b><a href="https://github.com/abdani/develop-test">develop-test</a></b><br>
+      <sub>An information website with an admin panel, fully serverless on Cloudflare Workers.</sub>
+    </td>
+    <td width="36%"><img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white"> <img alt="Workers KV" src="https://img.shields.io/badge/Workers_KV-F38020?style=flat-square&logo=cloudflare&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"></td>
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="16" height="16" alt=""> JavaScript<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="16" height="16" alt=""> CSS<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="16" height="16" alt=""> HTML</td>
   </tr>
 </table>
