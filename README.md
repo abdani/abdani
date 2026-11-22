@@ -1,12 +1,12 @@
 <table>
   <tr>
-    <th align="left">Project</th>
+    <th align="left" colspan="2">Project</th>
     <th align="left">Built with</th>
     <th align="left">Languages</th>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/Donat-TeleDrive"><img src="https://raw.githubusercontent.com/abdani/Donat-TeleDrive/main/src/jvmMain/resources/icon-256.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/Donat-TeleDrive"><img src="https://raw.githubusercontent.com/abdani/Donat-TeleDrive/main/src/jvmMain/resources/icon-256.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/Donat-TeleDrive">Donat TeleDrive</a></b><br>
       <sub>Your own private cloud drive for Windows, powered by your Telegram account.</sub>
     </td>
@@ -14,8 +14,8 @@
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kotlin/kotlin-original.svg" width="16" height="16" alt=""> Kotlin<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/powershell/powershell-original.svg" width="16" height="16" alt=""> PowerShell<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="16" height="16" alt=""> Python<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows8/windows8-original.svg" width="16" height="16" alt=""> Batchfile</td>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/Donat-Downloader"><img src="https://abdani.github.io/Donat-Downloader/favicon.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/Donat-Downloader"><img src="https://abdani.github.io/Donat-Downloader/favicon.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/Donat-Downloader">Donat Downloader</a></b><br>
       <sub>A fast, modern downloader for video and music from YouTube and 1,700+ sites.</sub>
     </td>
@@ -23,8 +23,8 @@
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="16" height="16" alt=""> Python<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/powershell/powershell-original.svg" width="16" height="16" alt=""> PowerShell<br><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="16" height="16" alt=""> Shell</td>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/Donat-Screen"><img src="https://abdani.github.io/Donat-Screen/images/icon.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/Donat-Screen"><img src="https://abdani.github.io/Donat-Screen/images/icon.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/Donat-Screen">Donat Screen</a></b><br>
       <sub>A tiny Windows screenshot tool with fully customizable save folders.</sub>
     </td>
@@ -32,8 +32,8 @@
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="16" height="16" alt=""> C#<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/powershell/powershell-original.svg" width="16" height="16" alt=""> PowerShell</td>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/Android-Media-Separator"><img src="https://abdani.github.io/Android-Media-Separator/images/icon.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/Android-Media-Separator"><img src="https://abdani.github.io/Android-Media-Separator/images/icon.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/Android-Media-Separator">Android Media Separator</a></b><br>
       <sub>Sorts an Android phone's photos, videos, audio and documents into neat folders on your PC.</sub>
     </td>
@@ -41,8 +41,8 @@
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="16" height="16" alt=""> Python</td>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/Select-Delete-GUI"><img src="https://abdani.github.io/Select-Delete-GUI/images/icon.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/Select-Delete-GUI"><img src="https://abdani.github.io/Select-Delete-GUI/images/icon.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/Select-Delete-GUI">Select &amp; Delete</a></b><br>
       <sub>See every photo, video and file as a thumbnail, tick the ones you don't need and delete them safely.</sub>
     </td>
@@ -50,8 +50,8 @@
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="16" height="16" alt=""> Python</td>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/Zoom-War"><img src="https://abdani.github.io/Zoom-War/images/icon.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/Zoom-War"><img src="https://abdani.github.io/Zoom-War/images/icon.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/Zoom-War">Zoom War</a></b><br>
       <sub>Keeps trying to join a full Zoom meeting until a slot opens, then sounds the alarm.</sub>
     </td>
@@ -59,8 +59,8 @@
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="16" height="16" alt=""> Python<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows8/windows8-original.svg" width="16" height="16" alt=""> Batchfile</td>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/dpoetry"><img src="https://abdani.github.io/dpoetry/docs/images/icon.png" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/dpoetry"><img src="https://abdani.github.io/dpoetry/docs/images/icon.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/dpoetry">DPOETRY</a></b><br>
       <sub>A quiet little poetry archive on the web, in Indonesian and English. <code>Unreleased</code></sub>
     </td>
@@ -68,8 +68,8 @@
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="16" height="16" alt=""> JavaScript<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="16" height="16" alt=""> CSS<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="16" height="16" alt=""> HTML</td>
   </tr>
   <tr>
-    <td width="44%">
-      <a href="https://github.com/abdani/develop-test"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c1.svg" alt="" width="44" height="44" align="left" hspace="8"></a>
+    <td width="60" align="center"><a href="https://github.com/abdani/develop-test"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c1.svg" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
+    <td width="38%">
       <b><a href="https://github.com/abdani/develop-test">develop-test</a></b><br>
       <sub>website / admin panel built & maintained by Dani Abdani (@abdani).</sub> <sub>Fully serverless on Cloudflare Workers.</sub>
     </td>
