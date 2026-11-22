@@ -69,5 +69,12 @@ I've been stuck outside full meetings too, LOL, so I built this for all of us. M
 
 [Website](https://abdani.github.io/Zoom-War/) · [Download](https://github.com/abdani/Zoom-War/archive/refs/heads/main.zip)
 
+<br>
+
+**[DPOETRY](https://github.com/abdani/dpoetry)** `Unreleased` is a quiet little poetry archive on the web, with poems in Indonesian and English, a word search and eight color themes.
+Not released yet: the poems are still being corrected and revised.
+
+[Preview](https://abdani.github.io/dpoetry/)
+
 #### Find me
 [Instagram](https://www.instagram.com/dani_abdani/) · [GitHub](https://github.com/abdani)
