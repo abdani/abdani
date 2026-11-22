@@ -141,7 +141,7 @@ Zoom and play in place, straight from a PC folder or an Android phone over USB, 
 <br>
 
 <a href="https://github.com/abdani/Zoom-War">
-  <img src="https://abdani.github.io/Zoom-War/images/social-preview.png?v=1" alt="Zoom War" width="640">
+  <img src="https://abdani.github.io/Zoom-War/images/social-preview.png?v=2" alt="Zoom War" width="640">
 </a>
 
 **[Zoom War](https://github.com/abdani/Zoom-War)** keeps trying to join a full Zoom meeting until a slot opens, then sounds the alarm the moment you're in.
