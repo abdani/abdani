@@ -17,7 +17,7 @@
     <td width="60" align="center"><a href="https://github.com/abdani/Donat-Downloader"><img src="https://abdani.github.io/Donat-Downloader/favicon.png" alt="" width="44" height="44"></a><br><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td>
     <td width="38%">
       <b><a href="https://github.com/abdani/Donat-Downloader">Donat Downloader</a></b><br>
-      <sub>A fast, modern downloader for video and music from YouTube and 1,700+ sites.</sub>
+      <sub>One app for everything you download: video, music, files, torrents and image galleries from YouTube and 1,700+ sites.</sub>
     </td>
     <td width="36%"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="yt-dlp" src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white"> <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"> <img alt="PyInstaller" src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white"></td>
     <td width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="16" height="16" alt=""> Python<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/powershell/powershell-original.svg" width="16" height="16" alt=""> PowerShell<br><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="16" height="16" alt=""> Shell</td>
@@ -97,11 +97,11 @@ A premium file manager with verified, resumable transfers, recovery-first sync a
 <br>
 
 <a href="https://github.com/abdani/Donat-Downloader">
-  <img src="https://abdani.github.io/Donat-Downloader/images/social-preview.png?v=2" alt="Donat Downloader" width="640">
+  <img src="https://abdani.github.io/Donat-Downloader/images/social-preview.png?v=3" alt="Donat Downloader" width="640">
 </a>
 
-**[Donat Downloader](https://github.com/abdani/Donat-Downloader)** is a fast, modern downloader for video and music from YouTube and 1,700+ sites.
-Copy a link and a card pops up from the tray. Pick a format and you're done.
+**[Donat Downloader](https://github.com/abdani/Donat-Downloader)** is one app for everything you download: video in MP4, MKV or WebM up to 4K, music in MP3, FLAC, M4A, Opus or WAV, plus any file, torrents and image galleries, from YouTube and 1,700+ sites.
+Copy a link and a card pops up from the tray. New in v1.1: a browser extension, link grabber and scheduler.
 
 [Website](https://abdani.github.io/Donat-Downloader/) · [Download](https://github.com/abdani/Donat-Downloader/releases/latest)
 
